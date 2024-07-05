@@ -1,6 +1,9 @@
-## Hello!
-![Alt text](https://blog.lootcrate.com/wp-content/uploads/2017/10/castlevania_gc_header.gif)
-### I like Building cool stuff
+## Hi! - I'm Nicolas from Uruguay, and I like building cool stuff
+<p align="center">
+  <img src="https://blog.lootcrate.com/wp-content/uploads/2017/10/castlevania_gc_header.gif" alt=":("/>
+</p>
+
+
 
 
 <!--
