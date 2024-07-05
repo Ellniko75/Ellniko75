@@ -1,4 +1,6 @@
-## **Hello!** I'm a Fullstack Dev From Uruguay 👋
+## Hello!
+![Alt text](https://blog.lootcrate.com/wp-content/uploads/2017/10/castlevania_gc_header.gif)
+### I like Building cool stuff
 
 
 <!--
